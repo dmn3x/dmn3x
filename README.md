@@ -11,7 +11,6 @@ A college student currently majoring in computer science. Still stuck on Java bu
 
 ## 📨 Contact
 [Twitter/X](https://twitter.com/quazanism)
-Website (there will be later...)
 
 ##
 Most of my code are messy. Will be updated if I remember.
