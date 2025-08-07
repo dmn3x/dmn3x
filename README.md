@@ -1,26 +1,19 @@
 # dmn3x
 
-Hi, I'm dmn3x. I build efficient code and automate boring stuff.  
-I prefer function over form—if it works well, it’s good.
+A college student currently majoring in computer science. Still stuck on Java but trying to learn towards web development.
 
-## ⚡ Tech Stack (only the tools I actually use)
-- Languages: Python, Go, Rust
-- Tools: Docker, GitHub Actions, Linux
+## ⚡ Tech Stack
+- Languages: Java
+- Tools: Windows, GitHub, NetBeans, VS Code
 
-## 🚧 Currently hacking on
-- Fast API servers
-- CLI tools
-- Open-source automation
-
-## 🗂️ Useful Repos
-- [FastCLI](https://github.com/dmn3x/fastcli)
-- [AutomateEverything](https://github.com/dmn3x/automateeverything)
+## 🗂️ Currently the Repos I'm Proud of
+[Empty for now. Updated later!]
 
 ## 📨 Contact
-DM me here or find me on [Twitter](https://twitter.com/dmn3x) (if you like chaos).
+[Twitter/X](https://twitter.com/quazanism)
+[Website (there will be later...)]
 
-## 🤖 Fun Fact
-I break things for fun, then fix them better.
+Most of my code are messy. Will be updated if I remember.
 
 <!-- No fancy badges. No filler. Just facts. -->
 
