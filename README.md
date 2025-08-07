@@ -7,8 +7,8 @@ A college student currently majoring in computer science. Still stuck on Java bu
 - Tools: Windows, GitHub, NetBeans, VS Code
 
 ## 🗂️ Currently the Repos I'm Proud of
-[Empty for now. Updated later!]
-
+[JelajahKu](https://github.com/dmn3x/JelajahKu)
+ 
 ## 📨 Contact
 [Twitter/X](https://twitter.com/quazanism)
 
